@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/fitcheckmate/static/css/main.ca67ef22.css",
-    "main.js": "/fitcheckmate/static/js/main.9d1ec752.js",
-    "static/js/488.b833b33e.chunk.js": "/fitcheckmate/static/js/488.b833b33e.chunk.js",
-    "index.html": "/fitcheckmate/index.html",
-    "main.ca67ef22.css.map": "/fitcheckmate/static/css/main.ca67ef22.css.map",
-    "main.9d1ec752.js.map": "/fitcheckmate/static/js/main.9d1ec752.js.map",
-    "488.b833b33e.chunk.js.map": "/fitcheckmate/static/js/488.b833b33e.chunk.js.map"
+    "main.css": "/FitCheckMate/static/css/main.82c0e88f.css",
+    "main.js": "/FitCheckMate/static/js/main.fea77ac4.js",
+    "static/js/488.b833b33e.chunk.js": "/FitCheckMate/static/js/488.b833b33e.chunk.js",
+    "static/media/fcmlogo.jpg": "/FitCheckMate/static/media/fcmlogo.08d4510d6ce118e8b88f.jpg",
+    "static/media/NoSloganLogo.jpg": "/FitCheckMate/static/media/NoSloganLogo.5308ed19a285d7526e26.jpg",
+    "index.html": "/FitCheckMate/index.html",
+    "main.82c0e88f.css.map": "/FitCheckMate/static/css/main.82c0e88f.css.map",
+    "main.fea77ac4.js.map": "/FitCheckMate/static/js/main.fea77ac4.js.map",
+    "488.b833b33e.chunk.js.map": "/FitCheckMate/static/js/488.b833b33e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca67ef22.css",
-    "static/js/main.9d1ec752.js"
+    "static/css/main.82c0e88f.css",
+    "static/js/main.fea77ac4.js"
   ]
 }
